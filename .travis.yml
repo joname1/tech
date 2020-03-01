@@ -3,7 +3,7 @@ node_js:
   - "9.11.1"
 
 install:
-  - npm install
+  - yarn
 
 cache:
   directories:
